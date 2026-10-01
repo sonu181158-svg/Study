@@ -1,0 +1,6 @@
+{
+  "name": "STUDYg",
+  "description": "Gamified study app for Classes 9-12 with detailed topic notes, 100+ competitive questions, PYQs, AI tutor, and quiz duels.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
